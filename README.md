@@ -5,12 +5,15 @@ Max speed for snow chained | 50km/h
 Max speed in one lane each direction road outside build-up area | 100km/h
 Max speed in one lane each direction road outside build-up area for truck with max 3t load| 100km/h
 Max speed for a truck with a permissible total mass of 3.0t and trailer may driven on autobahns | 80km/h
-Maximum speed in urban areas | 50km/h
-Max speed outside urban areas | 100km/h
+Max speed for a truck with a permissible total mass of 3.0t on roads  in urban areas | 50km/h
+Max speed for a truck with a permissible total mass of 3.0t on roads with one marked lane for each direction outside build-up areas | 100km/h
+You pass warning sign (with exclamation sign) when driving outside a build-up area. How far off is the harzard to be expected? | 150m-250m
+What is the maximum height allowed above the roadway for a red light marking a load extending to the back? | 1,50m
 Recommended speed that applies to cars and motorcycles on autobahns (expressway) | 130km/h
 Thinking distance in meters | 3 * speed /10, take reaction time as 1s
 Brake distance in meters | (speed/10) ^ 2
 Sufficient distance for truck to leave in front for overtaking vehicles to pull in  |  7m
+When a car with trailer exceed which length driving outside buildup area on roads with only one lane for each direction keep a sufficient distance from the car in front so that overtaking vehicles may pull in ? | 7m
 Motor vehicles with a permissible total mass of up to which number can freely choose their lane inside build-up areas | 3,5t
 Up to which permissible total mass may motor vehicles be parked on specially designated footpaths? | 2,8t
 What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle? | 10m (about 2 car lengths)
@@ -101,3 +104,9 @@ tailgating | 随行
 counter steering | 反转向 used by single-track vehicle operators, such as cyclists and motorcyclists, to initiate a turn toward a given direction by momentarily steering counter to the desired direction ("steer left to turn right"). To negotiate a turn successfully, the combined center of mass of the rider and the single-track vehicle must first be leaned in the direction of the turn, and steering briefly in the opposite direction causes that lean.[1] The rider's action of countersteering is sometimes referred to as "giving a steering command".
 roof rack | 车顶行李架
 combastion engine | 内燃机
+hashish | 大麻 Haschisch
+marihuana | 印度大麻
+heroin | 海洛因
+cocain | Kokain 可卡因
+Amphetamine | 安非他明，治疗多动症的成分
+manhole | Schachtdeckeln 沙井
