@@ -1,6 +1,8 @@
 ## Rules
 Description | Statistics
 --------- | --------
+You want to park in front of a St. Andrew's Cross in a built-up area. What is the minimum distance you must leave clear? | 5m
+What is the minimum distance you must leave clear when parking outside a build-up area before a St. Andrew's Cross? | 50m
 Max speed for snow chained | 50km/h
 Max speed in one lane each direction road outside build-up area | 100km/h
 Max speed in one lane each direction road outside build-up area for truck with max 3t load| 100km/h
@@ -52,7 +54,9 @@ CNG | Compressed natrual gas fill station
 LPG | Liquefied Petroleum gas fill station
 what is the permissible minimum tread depth of the main thread depth of all your vehicles tyre? | 1,6mm
 You want to park on the right-hand side edge of carriageway. How big is the mandatory minimum distance between your vehicle and the solid lane boundary line? | 3m
-
+What must you remember when towing? | The distance between the vehicles must not exceed 5m, Tow-rope/tow-bar must be clearly marked
+What makes driving in a stream of vehicles easier? |  looking through windows, stagged position
+Which vehicles must you allow to set off from marked bus stops? | school bus, regular bus (not taxi, only vehicles which have time table)
 
 ## Words
 Words | Explanation
@@ -65,6 +69,7 @@ driveway | private - a short road leading from a public road to a house or other
 roadway | 
 pavement | 
 verge | 
+carriageway | the part of a road intended for vehicles rather than pedestrians
 footpath | a path for people to walk along, especially a right of way in the countryside. a path for pedestrians in a built-up area; a pavement.
 differential lock | Known also as diff-lock or locker, it is a modification to the standard automotive differential. It’s purpose is to restrict each of the two wheels on an axle to the same rotational speed regardless of the traction available to each wheel.
 power steering | helps drivers steer by augmenting steering effort of the steering wheel.
@@ -110,3 +115,4 @@ heroin | 海洛因
 cocain | Kokain 可卡因
 Amphetamine | 安非他明，治疗多动症的成分
 manhole | Schachtdeckeln 沙井
+wheelnut | 车轮螺母
